@@ -46,7 +46,6 @@ Follow these instructions to get a local copy of the bot up and running for deve
     ```env
     DISCORD_TOKEN=your_discord_bot_token
     TOPGG_AUTH_TOKEN=your_top.gg_webhook_authorization_token
-    FIREBASE_CREDENTIALS_BASE64=your_base64_encoded_firebase_service_account_key
     ```
 
     - `DISCORD_TOKEN`: Your Discord bot token from the [Discord Developer Portal](https://discord.com/developers/applications).
