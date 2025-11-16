@@ -50,9 +50,7 @@ Follow these instructions to get a local copy of the bot up and running for deve
 
     - `DISCORD_TOKEN`: Your Discord bot token from the [Discord Developer Portal](https://discord.com/developers/applications).
     - `TOPGG_AUTH_TOKEN`: Your webhook authorization token from Top.gg (if you use it).
-    - `FIREBASE_CREDENTIALS_BASE64`: Your Firebase service account key, encoded in base64. You can generate this by running the following command in your terminal:
-      ```sh
-      cat /path/to/your/firebase_key.json | base64 -w 0
+    - `FIREBASE_KEY.json`: Download firebase_key.json for database
       ```
 
 ### Running the Bot
